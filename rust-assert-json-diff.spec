@@ -5,8 +5,8 @@
 %global crate assert-json-diff
 
 Name:           rust-%{crate}
-Version:        1.0.1
-Release:        2%{?dist}
+Version:        2.0.2
+Release:        1%{?dist}
 Summary:        Easily compare two JSON values and get great output
 
 # Upstream license specification: MIT
